@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70748d57-d540-437b-accb-65fd2ec207d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1guuSoELtN46XiK4rfhz5ta3ruU" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="ts.external.directory.path" value="C:\Users\oceans\software\WebStorm 2020.1.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\oceans\linux\oceans-back-node\src\resource" />
+      <recent name="C:\Users\oceans\linux\oceans-back-node\src\controller\test" />
+      <recent name="C:\Users\oceans\linux\oceans-back-node\src\resource\test" />
+      <recent name="C:\Users\oceans\linux\oceans-back-node\src\controller" />
+      <recent name="C:\Users\oceans\linux\oceans-back-node\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.compile.js">
+    <configuration name="compile.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/function/compile.js" working-dir="$PROJECT_DIR$/src/bash-server">
+      <method v="2" />
+    </configuration>
+    <configuration name="execute.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/function/execute.js" working-dir="$PROJECT_DIR$/src/bash-server">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.compile.js" />
+        <item itemvalue="Node.js.execute.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70748d57-d540-437b-accb-65fd2ec207d6" name="Default Changelist" comment="" />
+      <created>1598976800527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598976800527</updated>
+      <workItem from="1598976802512" duration="6246000" />
+      <workItem from="1598983165909" duration="6857000" />
+      <workItem from="1599011267744" duration="793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/resource/test.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1515" height="231" key="GridCell.Tab.0.bottom" timestamp="1598983053284">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="231" key="GridCell.Tab.0.bottom/0.0.1536.834/-1440.0.1440.870@0.0.1536.834" timestamp="1598983053284" />
+    <state width="1515" height="231" key="GridCell.Tab.0.center" timestamp="1598983053283">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="231" key="GridCell.Tab.0.center/0.0.1536.834/-1440.0.1440.870@0.0.1536.834" timestamp="1598983053283" />
+    <state width="1515" height="231" key="GridCell.Tab.0.left" timestamp="1598983053283">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="231" key="GridCell.Tab.0.left/0.0.1536.834/-1440.0.1440.870@0.0.1536.834" timestamp="1598983053283" />
+    <state width="1515" height="231" key="GridCell.Tab.0.right" timestamp="1598983053284">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="231" key="GridCell.Tab.0.right/0.0.1536.834/-1440.0.1440.870@0.0.1536.834" timestamp="1598983053284" />
+  </component>
+  <component name="regexState">
+    <option name="map">
+      <map>
+        <entry key="flags" value="0" />
+        <entry key="mode" value="0" />
+        <entry key="regex" value="(19||20)\d\d([- /.])(0[1-9]||1[012])\2(0[1-9]||[12][0-9]||3[01])" />
+        <entry key="text" value="1900-01-01 2007/08/13 1900.01.01 1900 01 01 1900-01.01 1900 13 01 1900 02 31" />
+      </map>
+    </option>
+  </component>
+</project>

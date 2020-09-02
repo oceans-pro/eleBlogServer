@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+<label for="ts"></label>
+<textarea id="ts" cols="100" rows="30"></textarea>
+<button>ajax</button>
+<script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+<script>
+  $('button').click(function() {
+    let text = $('#ts').val()
+    $.ajax({
+      url: 'http://localhost:3000/tsc/',
+      type: 'post',
+      data: {
+        name: 'oceans',
+        ts: text
+      },
+      success: function(data) {
+        window.eval(data)
+      }
+    })
+  })
+</script>
+
+</body>
+</html>
